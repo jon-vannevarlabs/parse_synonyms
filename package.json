@@ -1,0 +1,16 @@
+{
+  "name": "synonyms",
+  "version": "1.0.0",
+  "description": "tools for generating synonym files",
+  "main": "parse_synonyms.js",
+  "dependencies": {
+    "csv-parse": "^5.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "parse-synonyms": "node parse-synonyms.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
